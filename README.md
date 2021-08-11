@@ -4,6 +4,7 @@
 
 * PHP 7.4
 * Laravel 8
+* VueJs 2
 * SQL
 * HTML5
 * CSS3
